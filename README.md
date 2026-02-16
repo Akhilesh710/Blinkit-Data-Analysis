@@ -38,5 +38,4 @@ Enabled clear visibility into sales trends, outlet performance, and customer beh
 - Screenshots  
 
 ## 👤 Akhilesh Nishad
-Your Name  
-Aspiring Data Analyst  
+ Aspiring Data Analyst  
